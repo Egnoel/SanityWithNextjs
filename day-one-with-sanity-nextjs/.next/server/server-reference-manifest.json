@@ -1,0 +1,16 @@
+{
+  "node": {
+    "a9eb78f688c21798e686800e16edbe97d4787026": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cegnoe%5C%5CDocuments%5C%5Cprojects%5C%5Cworkshop%5C%5Cday-one-with-sanity-nextjs%5C%5Cnode_modules%5C%5Cnext-sanity%5C%5Cdist%5C%5Cvisual-editing%5C%5Cserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%5D&__client_imported__=true!",
+        "app/events/[slug]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cegnoe%5C%5CDocuments%5C%5Cprojects%5C%5Cworkshop%5C%5Cday-one-with-sanity-nextjs%5C%5Cnode_modules%5C%5Cnext-sanity%5C%5Cdist%5C%5Cvisual-editing%5C%5Cserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/events/[slug]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "bLiYv7wpM2kk72KIas2kIAhcwnGFO0ojR0hC92pg2d0="
+}
